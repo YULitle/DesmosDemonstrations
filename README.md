@@ -6,3 +6,4 @@ Included here are links to Desmos Demonstrations that I have created/coded for u
 - [Wave Reflection on Fixed/Loose End](https://www.desmos.com/calculator/z19iuy2bqp)
 - [Missile Incoming](https://www.desmos.com/calculator/dogbj53v4n)
 - [Gamma Function](https://www.desmos.com/calculator/owtenbqq7i)
+- [Exponential Decay - Depreciation](https://www.desmos.com/calculator/k1vkfusuk8)
